@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+}
+
+.container {
+  width: 80%;
+  margin: 30px auto;
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.todo-card {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
